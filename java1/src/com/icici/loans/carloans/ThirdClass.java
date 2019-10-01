@@ -1,9 +1,10 @@
 package com.icici.loans.carloans;
 
 public class ThirdClass {
-public void add() {
-	int a,b,c;
-	c=a+b;
+public void add() 
+{
+	int a,b,d;
+	d=a+b;
 }
 	public static void main(String[] args) 
 	{
